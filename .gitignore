@@ -14,5 +14,12 @@
 *.toc
 
 # Node.js files
-Server/node_modules
-Server/package-lock.json
+server/node_modules
+server/package-lock.json
+
+# React files
+client/node_modules
+client/src/assets
+
+
+
