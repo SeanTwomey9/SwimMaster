@@ -21,7 +21,7 @@ app.get("/", (request, response) => {
 
 // Response for API page
 app.get("/api", (request, response) => {
-    // Return JSON response
+    // Return response for API page
     response.json({message: "API page!"});
 })
 
